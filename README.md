@@ -14,7 +14,7 @@
 
 ## [🖥 Projects](markdown/my_projects/main.md)
 ## [😈 Git Gists](https://gist.github.com/tiIt-dev)
-## [📋 Dev manuals](https://github.com/BaggerFast/ItManuals)
+## [📋 Dev manuals](https://github.com/tiIt-dev/Dev-manuals)
 ## [📀 .DotFiles](https://github.com/BaggerFast/.DotFiles)
 ## [🔓 OpenSource Soft](markdown/open_soft/main.md)
 
