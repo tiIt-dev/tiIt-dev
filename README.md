@@ -1,4 +1,4 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Tilt</h1>
+<h1 align="center">👋 𝘏𝘦𝘭𝘭𝘰! 𝘐’𝘮 𝘛𝘪𝘭𝘵</h1>
 
 <h3 align="center">Python Developer</h3>
 <p align="center">
