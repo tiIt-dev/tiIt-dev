@@ -28,3 +28,24 @@
    <img src="https://metrics.lecoq.io/tiIt-dev" />
   </p>
 </details>
+
+<details align="left">
+  <summary><h2><b>🚀My technology stack</b></h2></summary>
+  <p>
+   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/>
+   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=092E20"/>
+   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1"/>
+   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/>
+   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=181717"/>
+   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+   <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>
+   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=777BB4"/>
+   <img src="https://img.shields.io/badge/phpMyAdmin-000000?style=for-the-badge&logo=phpMyAdmin&logoColor=6C78AF"/>
+   <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=F5792A"/>
+   <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
+   <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=9999FF"/>
+   <img src="https://img.shields.io/badge/Adobe After Effects-000000?style=for-the-badge&logo=Adobe After Effects&logoColor=9999FF"/>
+  </p>
+</details>
