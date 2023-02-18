@@ -50,6 +50,9 @@
   </p>
 </details>
 
+## 🍒 Recent Blog Posts
+
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mgrfmjfpnur73iyz7d2vlmrbm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 
