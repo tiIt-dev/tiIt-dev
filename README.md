@@ -49,3 +49,16 @@
    <img src="https://img.shields.io/badge/Adobe After Effects-000000?style=for-the-badge&logo=Adobe After Effects&logoColor=9999FF"/>
   </p>
 </details>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mgrfmjfpnur73iyz7d2vlmrbm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+
+
+<div align="center">
+            <a href="https://paypal.me/zxct1lt" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
