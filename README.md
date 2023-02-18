@@ -62,3 +62,7 @@
                 />
             </a></div>
 <br />
+
+<p align="right">
+ <img width="600" src="assets/wfc.png" alt="WFC Tu Tao"/>
+</p>
