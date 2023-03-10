@@ -5,6 +5,7 @@
 
 <p align="center">
  <img alt="uwu"src="https://discord.c99.nl/widget/theme-3/351749499804319746.png">
+ <br>
  <a href="https://www.youtube.com/channel/UCeg5XYLnmKyF2XlsF9U0fGg"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
  <a href="https://t.me/zxct1lt"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
 
