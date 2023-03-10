@@ -1,10 +1,15 @@
 <h1 align="center">👋 𝘏𝘦𝘭𝘭𝘰! 𝘐’𝘮 𝘛𝘪𝘭𝘵</h1>
 
 <h3 align="center">Python Developer</h3>
+
+
 <p align="center">
+ <img alt="uwu"src="https://discord.c99.nl/widget/theme-3/351749499804319746.png">
  <a href="https://www.youtube.com/channel/UCeg5XYLnmKyF2XlsF9U0fGg"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
  <a href="https://t.me/zxct1lt"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+
  <br>
+
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-tiIt-dev&color=green" />
 </p>
 
